@@ -82,7 +82,7 @@ Neutral      16
 
 ## Sentiment Analysis Plot
 
-![Sentiment Plot](./Inside Out 2_sentiment_plot.png)
+![Sentiment Plot](./Inside%20Out%202_sentiment_plot.png)
 
 ## Výsledku analýzy sentimentu
 
@@ -92,7 +92,7 @@ Neutral      16
 
 ## Word cloud 30 nejpoužívanějších slov
 
-![Word Cloud Common](./Inside Out 2_word_cloud_common.png)
+![Word Cloud Common](./Inside%20Out%202_word_cloud_common.png)
 
 ## 30 nejdelších slov
 
@@ -100,5 +100,5 @@ Neutral      16
 
 ## Word cloud 30 nejdelších slov
 
-![Word Cloud Longest](./Inside Out 2_word_cloud_longest.png)
+![Word Cloud Longest](./Inside%20Out%202_word_cloud_longest.png)
 
